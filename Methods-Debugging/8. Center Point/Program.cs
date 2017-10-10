@@ -31,11 +31,11 @@ namespace _8.Center_Podouble
 
             if (distance1 < distance2)
             {
-                Console.WriteLine("({0},{1})", x1, y1);
+                Console.WriteLine("({0}, {1})", x1, y1);
             }
             else
             {
-                Console.WriteLine("({0},{1})", x2, y2);
+                Console.WriteLine("({0}, {1})", x2, y2);
             }
         }
     }
